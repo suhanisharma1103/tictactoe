@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+*{
+    margin:0;
+    padding:0;
+
+
+}
+nav{
+    background-color:rgb(14, 167, 86);
+    color:black;
+    height:144px;
+    font-size:34px;
+    display:flex;
+    align-items:center ;
+    font-family: 'Merriweather', serif;
+
+
+}
+nav ul{
+    list-style-type:none;
+}
+.gameContainer{
+    background-color:bisque;
+    display:flex;
+    justify-content:center;
+    margin-top:
+
+}
+.container{
+    display:grib;
+    grid-template-rows:repeat(3,10vw);
+    grid-template-columns:repeat(3,10vw);
+    font-family: 'Merriweather', serif;
+    
+}
+.box{
+    border:2px solid rgb(9, 1, 21);
+    font-size:7vw;
+    cursor: pointer;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+
+}
+
+.gameInfo{
+    padding:0 30px;
+    font-family: 'Merriweather', serif;
+
+
+}
